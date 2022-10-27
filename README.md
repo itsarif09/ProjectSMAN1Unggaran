@@ -1,4 +1,4 @@
-# Proyek-Perangkat-Lunak-A11.4617
+# Proyek-Aplikasi Buku Induk
 
 Halo perkenalkan nama saya Muhammad Arif Safi'i,  
 Saya mahasiswa Teknik Informatika di Universitas Dian Nuswantoro Semarang atau sering disebut Udinus, 
